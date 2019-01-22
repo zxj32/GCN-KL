@@ -1,4 +1,4 @@
-# GCN-VAE
+# GCN-
 
 This is a TensorFlow implementation of the GCN-KL model as described in our paper:
  
