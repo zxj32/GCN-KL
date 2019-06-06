@@ -51,6 +51,10 @@ In this example, we load traffic data. The original datasets can be found here: 
 You can choose the following model: 
 * `GCN-KL`: opinion_KL.py
 
+## Question
+
+If you have any question, please feel free to contact me. Email is good for me. 
+
 ## Cite
 
 Please cite our paper if you use this code in your own work:
