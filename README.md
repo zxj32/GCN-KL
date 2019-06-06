@@ -60,10 +60,12 @@ If you have any question, please feel free to contact me. Email is good for me.
 Please cite our paper if you use this code in your own work:
 
 ```
-@article{xujiang2018gcn_kl,
+@inproceedings{zhao2018uncertainty,
   title={Uncertainty-Based Opinion Inference on Network Data Using Graph Convolutional Neural Networks},
-  author={Xujiang Zhao, Feng Chen and Jin-Hee Cho},
-  journal={MILCOM},
-  year={2018}
+  author={Zhao, Xujiang and Chen, Feng and Cho, Jin-Hee},
+  booktitle={MILCOM 2018-2018 IEEE Military Communications Conference (MILCOM)},
+  pages={731--736},
+  year={2018},
+  organization={IEEE}
 }
 ```
